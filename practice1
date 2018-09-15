@@ -197,6 +197,11 @@
 					"currencySymbol":"$"
 				},
 				{
+					"value":"15",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
 					"value":"20",
 					"currency":"USD",
 					"currencySymbol":"$"
@@ -207,37 +212,27 @@
 					"currencySymbol":"$"
 				},
 				{
-					"value":"40",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
 					"value":"50",
 					"currency":"USD",
 					"currencySymbol":"$"
 				},
 				{
-					"value":"60",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"70",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"80",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"90",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
 					"value":"100",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"150",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"200",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"500",
 					"currency":"USD",
 					"currencySymbol":"$"
 				}
