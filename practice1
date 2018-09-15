@@ -3,11 +3,59 @@
 		{
 			"name":"Amazon",
 			"description":"Amzn",
-			"amounts": null,
-			"range": {
-				"minValue": 0,
-				"maxValue": 200
-			},
+			"amounts": [
+				{
+					"value":"5",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"10",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"15",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"20",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"25",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"50",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"100",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"150",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"200",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"500",
+					"currency":"USD",
+					"currencySymbol":"$"
+				}
+			],
+			"range": null,
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/amazon.png?raw=true",
 			"purchaseTerms":"",
 			"redeemTerms":""
@@ -42,37 +90,7 @@
 					"currencySymbol":"$"
 				},
 				{
-					"value":"30",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"40",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
 					"value":"50",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"60",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"70",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"80",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"90",
 					"currency":"USD",
 					"currencySymbol":"$"
 				},
@@ -88,6 +106,11 @@
 				},
 				{
 					"value":"200",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"500",
 					"currency":"USD",
 					"currencySymbol":"$"
 				}
@@ -127,37 +150,7 @@
 					"currencySymbol":"$"
 				},
 				{
-					"value":"30",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"40",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
 					"value":"50",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"60",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"70",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"80",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"90",
 					"currency":"USD",
 					"currencySymbol":"$"
 				},
@@ -173,6 +166,11 @@
 				},
 				{
 					"value":"200",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"500",
 					"currency":"USD",
 					"currencySymbol":"$"
 				}
@@ -257,6 +255,11 @@
 					"currencySymbol":"$"
 				},
 				{
+					"value":"15",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
 					"value":"20",
 					"currency":"USD",
 					"currencySymbol":"$"
@@ -272,12 +275,22 @@
 					"currencySymbol":"$"
 				},
 				{
-					"value":"70",
+					"value":"100",
 					"currency":"USD",
 					"currencySymbol":"$"
 				},
 				{
-					"value":"100",
+					"value":"150",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"200",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"500",
 					"currency":"USD",
 					"currencySymbol":"$"
 				}
@@ -317,37 +330,7 @@
 					"currencySymbol":"$"
 				},
 				{
-					"value":"30",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"40",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
 					"value":"50",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"60",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"70",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"80",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"90",
 					"currency":"USD",
 					"currencySymbol":"$"
 				},
@@ -363,6 +346,11 @@
 				},
 				{
 					"value":"200",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"500",
 					"currency":"USD",
 					"currencySymbol":"$"
 				}
