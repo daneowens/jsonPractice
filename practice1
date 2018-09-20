@@ -55,7 +55,6 @@
 					"currencySymbol":"$"
 				}
 			],
-			"range": null,
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/amazon.png?raw=true",
 			"purchaseTerms":"",
 			"redeemTerms":""
@@ -115,7 +114,6 @@
 					"currencySymbol":"$"
 				}
 			],
-			"range": null,
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/apple5.png?raw=true",
 			"purchaseTerms":"",
 			"redeemTerms":""
@@ -175,7 +173,6 @@
 					"currencySymbol":"$"
 				}
 			],
-			"range": null,
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/macys.png?raw=true",
 			"purchaseTerms":"",
 			"redeemTerms":""
@@ -235,7 +232,6 @@
 					"currencySymbol":"$"
 				}
 			],
-			"range": null,
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/starbucks.png?raw=true",
 			"purchaseTerms":"",
 			"redeemTerms":""
@@ -295,7 +291,6 @@
 					"currencySymbol":"$"
 				}
 			],
-			"range": null,
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/target.png?raw=true",
 			"purchaseTerms":"",
 			"redeemTerms":""
@@ -355,7 +350,6 @@
 					"currencySymbol":"$"
 				}
 			],
-			"range": null,
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/uber.png?raw=true",
 			"purchaseTerms":"",
 			"redeemTerms":""
