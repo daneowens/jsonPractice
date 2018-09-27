@@ -30,27 +30,27 @@
 					"currencySymbol":"$"
 				},
 				{
+					"value":"30",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"35",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"40",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"45",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
 					"value":"50",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"100",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"150",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"200",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"500",
 					"currency":"USD",
 					"currencySymbol":"$"
 				}
@@ -89,27 +89,27 @@
 					"currencySymbol":"$"
 				},
 				{
+					"value":"30",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"35",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"40",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"45",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
 					"value":"50",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"100",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"150",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"200",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"500",
 					"currency":"USD",
 					"currencySymbol":"$"
 				}
@@ -148,27 +148,27 @@
 					"currencySymbol":"$"
 				},
 				{
+					"value":"30",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"35",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"40",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"45",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
 					"value":"50",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"100",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"150",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"200",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"500",
 					"currency":"USD",
 					"currencySymbol":"$"
 				}
@@ -207,27 +207,27 @@
 					"currencySymbol":"$"
 				},
 				{
+					"value":"30",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"35",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"40",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"45",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
 					"value":"50",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"100",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"150",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"200",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"500",
 					"currency":"USD",
 					"currencySymbol":"$"
 				}
@@ -256,17 +256,17 @@
 					"currencySymbol":"$"
 				},
 				{
-					"value":"20",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
 					"value":"25",
 					"currency":"USD",
 					"currencySymbol":"$"
 				},
 				{
-					"value":"50",
+					"value":"30",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"40",
 					"currency":"USD",
 					"currencySymbol":"$"
 				},
@@ -276,17 +276,17 @@
 					"currencySymbol":"$"
 				},
 				{
-					"value":"150",
+					"value":"50",
 					"currency":"USD",
 					"currencySymbol":"$"
 				},
 				{
-					"value":"200",
+					"value":"75",
 					"currency":"USD",
 					"currencySymbol":"$"
 				},
 				{
-					"value":"500",
+					"value":"100",
 					"currency":"USD",
 					"currencySymbol":"$"
 				}
@@ -325,27 +325,27 @@
 					"currencySymbol":"$"
 				},
 				{
+					"value":"30",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"35",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"40",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"45",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
 					"value":"50",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"100",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"150",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"200",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
-					"value":"500",
 					"currency":"USD",
 					"currencySymbol":"$"
 				}
