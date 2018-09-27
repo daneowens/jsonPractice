@@ -271,11 +271,6 @@
 					"currencySymbol":"$"
 				},
 				{
-					"value":"100",
-					"currency":"USD",
-					"currencySymbol":"$"
-				},
-				{
 					"value":"50",
 					"currency":"USD",
 					"currencySymbol":"$"
@@ -287,6 +282,11 @@
 				},
 				{
 					"value":"100",
+					"currency":"USD",
+					"currencySymbol":"$"
+				},
+				{
+					"value":"200",
 					"currency":"USD",
 					"currencySymbol":"$"
 				}
