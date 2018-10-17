@@ -7,52 +7,62 @@
 				{
 					"value":"5",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"6"
 				},
 				{
 					"value":"10",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"11.50"
 				},
 				{
 					"value":"15",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"17"
 				},
 				{
 					"value":"20",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"22.50"
 				},
 				{
 					"value":"25",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"28"
 				},
 				{
 					"value":"30",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"33.50"
 				},
 				{
 					"value":"35",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"39"
 				},
 				{
 					"value":"40",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"44.50"
 				},
 				{
 					"value":"45",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"50"
 				},
 				{
 					"value":"50",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"55.50"
 				}
 			],
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/amazon.png?raw=true",
@@ -66,52 +76,62 @@
 				{
 					"value":"5",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"6"
 				},
 				{
 					"value":"10",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"11.50"
 				},
 				{
 					"value":"15",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"17"
 				},
 				{
 					"value":"20",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"22.50"
 				},
 				{
 					"value":"25",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"28"
 				},
 				{
 					"value":"30",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"33.50"
 				},
 				{
 					"value":"35",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"39"
 				},
 				{
 					"value":"40",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"44.50"
 				},
 				{
 					"value":"45",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"50"
 				},
 				{
 					"value":"50",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"55.50"
 				}
 			],
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/apple5.png?raw=true",
@@ -125,52 +145,62 @@
 				{
 					"value":"5",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"6"
 				},
 				{
 					"value":"10",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"11.50"
 				},
 				{
 					"value":"15",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"17"
 				},
 				{
 					"value":"20",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"22.50"
 				},
 				{
 					"value":"25",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"28"
 				},
 				{
 					"value":"30",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"33.50"
 				},
 				{
 					"value":"35",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"39"
 				},
 				{
 					"value":"40",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"44.50"
 				},
 				{
 					"value":"45",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"50"
 				},
 				{
 					"value":"50",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"55.50"
 				}
 			],
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/macys.png?raw=true",
@@ -184,52 +214,62 @@
 				{
 					"value":"5",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"6"
 				},
 				{
 					"value":"10",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"11.50"
 				},
 				{
 					"value":"15",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"17"
 				},
 				{
 					"value":"20",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"22.50"
 				},
 				{
 					"value":"25",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"28"
 				},
 				{
 					"value":"30",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"33.50"
 				},
 				{
 					"value":"35",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"39"
 				},
 				{
 					"value":"40",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"44.50"
 				},
 				{
 					"value":"45",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"50"
 				},
 				{
 					"value":"50",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"55.50"
 				}
 			],
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/starbucks.png?raw=true",
@@ -243,52 +283,62 @@
 				{
 					"value":"5",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"6"
 				},
 				{
 					"value":"10",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"11.50"
 				},
 				{
 					"value":"15",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"17"
 				},
 				{
 					"value":"25",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"28"
 				},
 				{
 					"value":"30",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"33.50"
 				},
 				{
 					"value":"40",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"39"
 				},
 				{
 					"value":"50",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"44.50"
 				},
 				{
 					"value":"75",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"83"
 				},
 				{
 					"value":"100",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"109"
 				},
 				{
 					"value":"200",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"215"
 				}
 			],
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/target.png?raw=true",
@@ -302,52 +352,62 @@
 				{
 					"value":"5",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"6"
 				},
 				{
 					"value":"10",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"11.50"
 				},
 				{
 					"value":"15",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"17"
 				},
 				{
 					"value":"20",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"22.50"
 				},
 				{
 					"value":"25",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"28"
 				},
 				{
 					"value":"30",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"33.50"
 				},
 				{
 					"value":"35",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"39"
 				},
 				{
 					"value":"40",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"44.50"
 				},
 				{
 					"value":"45",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"50"
 				},
 				{
 					"value":"50",
 					"currency":"USD",
-					"currencySymbol":"$"
+					"currencySymbol":"$",
+					"total":"55.50"
 				}
 			],
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/uber.png?raw=true",
