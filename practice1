@@ -5,6 +5,30 @@
 			"description":"Amzn",
 			"amounts": [
 				{
+					"value":"5",
+					"currency":"USD",
+					"currencySymbol":"$",
+					"total":"6"
+				},
+				{
+					"value":"10",
+					"currency":"USD",
+					"currencySymbol":"$",
+					"total":"11.50"
+				},
+				{
+					"value":"15",
+					"currency":"USD",
+					"currencySymbol":"$",
+					"total":"17"
+				},
+				{
+					"value":"20",
+					"currency":"USD",
+					"currencySymbol":"$",
+					"total":"22.50"
+				},
+				{
 					"value":"25",
 					"currency":"USD",
 					"currencySymbol":"$",
@@ -49,30 +73,6 @@
 			"name":"Apple",
 			"description":"Apl",
 			"amounts": [
-				{
-					"value":"5",
-					"currency":"USD",
-					"currencySymbol":"$",
-					"total":"6"
-				},
-				{
-					"value":"10",
-					"currency":"USD",
-					"currencySymbol":"$",
-					"total":"11.50"
-				},
-				{
-					"value":"15",
-					"currency":"USD",
-					"currencySymbol":"$",
-					"total":"17"
-				},
-				{
-					"value":"20",
-					"currency":"USD",
-					"currencySymbol":"$",
-					"total":"22.50"
-				},
 				{
 					"value":"25",
 					"currency":"USD",
