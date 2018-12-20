@@ -5,30 +5,6 @@
 			"description":"Amzn",
 			"amounts": [
 				{
-					"value":"5",
-					"currency":"USD",
-					"currencySymbol":"$",
-					"total":"6"
-				},
-				{
-					"value":"10",
-					"currency":"USD",
-					"currencySymbol":"$",
-					"total":"11.50"
-				},
-				{
-					"value":"15",
-					"currency":"USD",
-					"currencySymbol":"$",
-					"total":"17"
-				},
-				{
-					"value":"20",
-					"currency":"USD",
-					"currencySymbol":"$",
-					"total":"22.50"
-				},
-				{
 					"value":"25",
 					"currency":"USD",
 					"currencySymbol":"$",
@@ -132,6 +108,30 @@
 					"currency":"USD",
 					"currencySymbol":"$",
 					"total":"55.50"
+				},
+				{
+					"value":"75",
+					"currency":"USD",
+					"currencySymbol":"$",
+					"total":"83"
+				},
+				{
+					"value":"100",
+					"currency":"USD",
+					"currencySymbol":"$",
+					"total":"109"
+				},
+				{
+					"value":"150",
+					"currency":"USD",
+					"currencySymbol":"$",
+					"total":"162"
+				},
+				{
+					"value":"200",
+					"currency":"USD",
+					"currencySymbol":"$",
+					"total":"215"
 				}
 			],
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/apple5.png?raw=true",
@@ -142,12 +142,6 @@
 			"name":"Macy's",
 			"description":"Mcs",
 			"amounts": [
-				{
-					"value":"5",
-					"currency":"USD",
-					"currencySymbol":"$",
-					"total":"6"
-				},
 				{
 					"value":"10",
 					"currency":"USD",
@@ -201,6 +195,12 @@
 					"currency":"USD",
 					"currencySymbol":"$",
 					"total":"55.50"
+				},
+				{
+					"value":"100",
+					"currency":"USD",
+					"currencySymbol":"$",
+					"total":"109"
 				}
 			],
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/macys.png?raw=true",
@@ -350,12 +350,6 @@
 			"description":"Ubr",
 			"amounts": [
 				{
-					"value":"5",
-					"currency":"USD",
-					"currencySymbol":"$",
-					"total":"6"
-				},
-				{
 					"value":"10",
 					"currency":"USD",
 					"currencySymbol":"$",
@@ -408,6 +402,12 @@
 					"currency":"USD",
 					"currencySymbol":"$",
 					"total":"55.50"
+				},
+				{
+					"value":"100",
+					"currency":"USD",
+					"currencySymbol":"$",
+					"total":"109"
 				}
 			],
 			"imageUrl":"https://github.com/daneowens/jsonPractice/blob/master/uber.png?raw=true",
